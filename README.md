@@ -2,4 +2,6 @@
 
 #this is my first git repository
 
-Thanks
+# heading2
+
+Modified version
